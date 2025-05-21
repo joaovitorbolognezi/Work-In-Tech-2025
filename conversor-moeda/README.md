@@ -2,7 +2,7 @@
 
 ## 📕 Sobre
 
-- Este é um projeto iniciante desenvolvido em um WorkShop de 2 dias com foco em Automação Web. 
+- Este é um projeto iniciante desenvolvido no segundo dia de um Workshop de Automação Web. 
 - O Script automatiza a tarefa de conversão de moedas a partir do site do Banco Central, insere o valor e extrai o valor convertido na outra moeda.
 
 ## 🔁 O que o Script Faz
